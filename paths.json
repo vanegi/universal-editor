@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/ue-test/:/",
-    "/content/ue-test/configuration:/.helix/config.json",
-    "/content/ue-test/metadata:/metadata.json"
+    "/content/pre-mlr-demo/:/",
+    "/content/pre-mlr-demo/configuration:/.helix/config.json",
+    "/content/pre-mlr-demo/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/ue-test/"
+    "/content/pre-mlr-demo/"
   ]
 }
